@@ -1,10 +1,10 @@
-# Betterfly-Server
+# Betterfly-Server-Cpp
 > *这是一个尝试自行实现即时通讯软件的小项目*
 > *本项目基于QuickIM项目继续开发*
 
-![License](https://img.shields.io/github/license/Voltline/Betterfly-Server)
-![Issues](https://img.shields.io/github/issues/Voltline/Betterfly-Server)
-![Stars](https://img.shields.io/github/stars/Voltline/Betterfly-Server)
+![License](https://img.shields.io/github/license/Voltline/Betterfly-Server-Cpp)
+![Issues](https://img.shields.io/github/issues/Voltline/Betterfly-Server-Cpp)
+![Stars](https://img.shields.io/github/stars/Voltline/Betterfly-Server-Cpp)
 
 ## 项目概况
 * 项目开始于2024年10月8日
@@ -48,7 +48,7 @@ sudo yum install openssl
 * The nlohmann json library and spdlog library are included in this project, so you don't need to install them. But you need to install boost and boost/mysql library by yourself.
 * Recommend to use vcpkg to install boost and boost/mysql library
 
-## 项目信息/About QuickIM
+## 项目信息/About Betterfly-Server-Cpp
 ### 语言/Lang
 * 语言/Lang：C++
 ### 第三方库/Third-Party Library
